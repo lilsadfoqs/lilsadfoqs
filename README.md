@@ -17,7 +17,12 @@ I'm the Tortoise in the SWE race.
 ---
 
 Software Engineer @OPSWAT.  
-Interested in backend engineering, platform systems, developer tooling, and AI-assisted automation.
+Interested in:
+- full-stack engineering
+- distributed systems
+- cloud infrastructure
+- agentic AI
+- building open-source offensive security tools and engines.
 
 ---
 
