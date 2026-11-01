@@ -16,7 +16,7 @@ I'm the Tortoise in the SWE race.
 
 ---
 
-### Software Engineer @OPSWAT.  
+# Software Engineer @OPSWAT.  
 Interested in:
 - full-stack engineering
 - distributed systems
