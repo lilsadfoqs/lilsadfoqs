@@ -10,13 +10,13 @@
                                                                                                     ░▒▓██▓▒░                
 ```
 
-# hi, i'm trannghiach a.k.a lilsadfoqs
+# hi, i'm lilsadfoqs
 
-I build backend systems, full-stack products, and automation tools with a focus on real workflows and system design.
+I'm the Tortoise in the SWE race.
 
 ---
 
-Final-year Computer Science student at HCMUS (Ho Chi Minh City).  
+Software Engineer @OPSWAT.  
 Interested in backend engineering, platform systems, developer tooling, and AI-assisted automation.
 
 ---
