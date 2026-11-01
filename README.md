@@ -111,4 +111,4 @@ while alive:
 ```
 ---
 
-<sub>Built by <a href="https://github.com/trannghiach">@trannghiach</a> a.k.a @lilsadfoqs.</sub>
+<sub>Built by <a href="https://github.com/lilsadfoqs">@lilsadfoqs</a></sub>
